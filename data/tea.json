@@ -1,0 +1,57 @@
+[
+
+{
+    "day" : "Monday",
+    "tea" : 7
+
+},
+
+{
+    "day" : "Tuesday",
+    "tea" : 6
+
+}
+  ,
+
+  {
+      "day" : "Wednesday",
+      "tea" : 5
+
+  },
+
+
+  {
+      "day" : "Thursday",
+      "tea" : 4
+
+  }
+    ,
+
+    {
+        "day" : "Friday",
+        "tea" : 3
+
+    },
+
+    {
+        "day" : "Saturday",
+        "tea" : 4
+
+    },
+
+    {
+        "day" : "Sunday",
+        "tea" : 8
+
+    }
+
+
+
+
+
+
+
+
+
+
+]
